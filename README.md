@@ -56,7 +56,7 @@
     <img width="315" align="center" src="https://github-readme-stats.vercel.app/api?username=TuyenNedd&show_icons=true&theme=tokyonight&hide_border=true" />
   </a>
   <a href="#" title="Trungquandev">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuyenNedd&layout=compact&border_color=61dafb&hide_border=true&bg_color=61dafb" />
+    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuyenNedd&layout=compact&bg_color=1a1b27&hide_border=true" />
   </a>
 </div>
 
